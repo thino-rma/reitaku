@@ -7,3 +7,6 @@ test repo for reitaku
 - ayumi
 - mitsu
 - hoge
+
+
+aaaa
